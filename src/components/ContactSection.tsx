@@ -111,7 +111,7 @@ const ContactSection = () => {
             transition={{ delay: 0.8 }}
           >
             <a
-              href="mailto:asgerali5656@gmail.com"
+              href="mailto:asgeralimtc@gmail.com"
               className="inline-flex items-center gap-3 px-8 py-4 bg-primary text-primary-foreground font-mono font-semibold rounded border border-primary hover:bg-primary/90 transition-all box-glow-primary"
             >
               <Mail className="w-5 h-5" />
