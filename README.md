@@ -1,103 +1,73 @@
-# 🔐 Cyber-Themed Personal Portfolio
+# Welcome to your Lovable project
 
-A cyber-security inspired personal portfolio website built to present my background, current skill set, and career direction as a **Computer Science student** preparing for **Entry-Level IT roles** with a long-term focus on **Cyber Security and Full-Stack Development**.
+## Project info
 
-This project prioritizes **clarity, honesty, and practical understanding** over buzzwords or exaggerated claims.
+**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
 
----
+## How can I edit this code?
 
-## 👤 About Me
+There are several ways of editing your application.
 
-- **Name:** Asger Ali  
-- **Age:** 23  
-- **Qualification:** Computer Science Student  
-- **Current Status:** Full-time learner (6–8 hours/day)  
-- **Short-term Goal:** Entry-Level IT / Technical Support / Junior Web role  
-- **Mid-term Goal:** Transition into Cyber Security or Full-Stack Development  
+**Use Lovable**
 
-This portfolio acts as a **job-ready representation** of my skills, learning progress, and technical mindset.
+Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
 
----
+Changes made via Lovable will be committed automatically to this repo.
 
-## 🎯 Purpose of This Project
+**Use your preferred IDE**
 
-- Showcase practical knowledge of **web fundamentals, networking, and security concepts**
-- Provide recruiters with a **clear snapshot** of my current capabilities
-- Demonstrate learning through **visuals, real-time data, and projects**
-- Serve as a living portfolio that evolves with my skills
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
----
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-## ✨ Key Features
+Follow these steps:
 
-- Dark **cyber-security themed UI**
-- Interactive visualizations of:
-  - DNS resolution flow
-  - Client → Server communication
-  - IP packet concepts
-  - HTTP request/response cycle
-- Live cyber/tech content using **public APIs**
-- Clear skill categorization:
-  - Comfortable
-  - Currently Learning
-  - Planned
-- Project-focused layout (problem → solution → learning)
-- Fully responsive (desktop & mobile)
-- Lightweight animations (performance-focused)
+```sh
+# Step 1: Clone the repository using the project's Git URL.
+git clone <YOUR_GIT_URL>
 
----
+# Step 2: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
 
-## 🧠 Skills Represented
+# Step 3: Install the necessary dependencies.
+npm i
 
-### Comfortable
-- HTML, CSS
-- JavaScript (basics)
-- Linux basics (Fedora, Kali)
-- Git & GitHub (beginner)
-- Networking fundamentals (IP, DNS, HTTP)
+# Step 4: Start the development server with auto-reloading and an instant preview.
+npm run dev
+```
 
-### Currently Learning
-- Bash scripting
-- Web deployment (Vercel)
-- Basic security tools & concepts
+**Edit a file directly in GitHub**
 
-### Planned
-- Backend development (Node.js)
-- Web application security
-- SOC fundamentals
+- Navigate to the desired file(s).
+- Click the "Edit" button (pencil icon) at the top right of the file view.
+- Make your changes and commit the changes.
 
----
+**Use GitHub Codespaces**
 
-## 🛠 Tech Stack
+- Navigate to the main page of your repository.
+- Click on the "Code" button (green button) near the top right.
+- Select the "Codespaces" tab.
+- Click on "New codespace" to launch a new Codespace environment.
+- Edit files directly within the Codespace and commit and push your changes once you're done.
 
-- **Frontend:** HTML, CSS, JavaScript  
-- **Animations:** SVG + JavaScript  
-- **APIs:** Public APIs for cyber/tech headlines or quotes  
-- **Version Control:** Git & GitHub  
-- **Deployment:** Vercel  
+## What technologies are used for this project?
 
----
+This project is built with:
 
-## 🌐 Live Demo
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
 
-> Deployed using **Vercel**  
-(Add live link here once final)
+## How can I deploy this project?
 
----
+Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
 
-## 🔗 Social & Professional Links
+## Can I connect a custom domain to my Lovable project?
 
-- **LinkedIn:** https://www.linkedin.com/in/asger-ali-6b7b2521a  
-- **GitHub:** https://github.com/asgerali5656  
-- **X (Twitter):** https://x.com/AsgerAli1958201  
-- **Instagram:** https://www.instagram.com/asgerali5656  
-- **Telegram:** https://t.me/AsgerAli5656  
+Yes, you can!
 
----
+To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-## 🚀 How to Run Locally
-
-```bash
-git clone https://github.com/asgerali5656/<repo-name>.git
-cd <repo-name>
-open index.html
+Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
